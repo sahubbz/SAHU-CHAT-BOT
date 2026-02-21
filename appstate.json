@@ -4,7 +4,7 @@
         "value": "%7B%22100047211079054%22%3A%22vCoqd0G8%22%2C%2261586663640809%22%3A%22bIizlyUQ%22%7D",
         "domain": "facebook.com",
         "path": "/login/device-based/",
-        "hostOly": false,
+        "hostOnly": false,
         "creation": "2026-02-21T06:33:53.655Z",
         "lastAccessed": "2026-02-21T06:33:53.655Z"
     },
@@ -101,7 +101,7 @@
     {
         "key": "fr",
         "value": "2bITHwlETpEJC2usI.AWfRhCSUMOgpbblhMCDShMxkTcBwx89nZYR58DcUky4iFRsgtuk.BpmVG-..AAA.0.0.BpmVG-.AWfbQsQQpcxGsIJyKKrsXmyfnyI",
-        "domin": "facebook.com",
+        "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
         "creation": "2026-02-21T06:33:53.656Z",
